@@ -4,13 +4,17 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
-
+[_Prototype for Juno_
+](https://juno-signal-compass.lovable.app)
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+Use Case
+-	Who’s using it: PM associate
+-	Where you’d see it: A dedicated dashboard in Notion (backlog as a source)
+-	What it takes off your plate: Curating the backlog out of issues.
+
 
 _____
 
